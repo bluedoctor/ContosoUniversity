@@ -1,6 +1,6 @@
 using System;
 
-namespace CU.Models
+namespace ContosoUniversity.Models
 {
     public class ErrorViewModel
     {
